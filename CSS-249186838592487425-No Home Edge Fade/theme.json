@@ -1,0 +1,9 @@
+{
+    "name": "No Home Edge Fade",
+    "author": "SuchMeme",
+    "target": "Tweak",
+    "description": "Removes the blue edges around the home menu",
+    "inject": {
+        "shared.css": ["SP"]
+    }
+}
