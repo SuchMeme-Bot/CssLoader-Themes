@@ -1,0 +1,1 @@
+Hides the SD card icon from the top bar

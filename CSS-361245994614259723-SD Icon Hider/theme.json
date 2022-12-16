@@ -1,0 +1,10 @@
+{
+    "name": "SD Icon Hider",
+    "author": "Mr.NeverAlivex_x",
+    "manifest_version": 4,
+    "target": "System-Wide",
+    "description": "Hides the SD card icon from the top bar",
+    "inject": {
+        "shared.css": ["SP"]
+    }
+}
