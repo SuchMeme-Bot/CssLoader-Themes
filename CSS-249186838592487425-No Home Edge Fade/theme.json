@@ -1,6 +1,7 @@
 {
     "name": "No Home Edge Fade",
-    "author": "SuchMeme",
+    "author": "SuchMeme, RasitAyaz",
+    "version": "v1.1",
     "target": "Tweak",
     "description": "Removes the blue edges around the home menu",
     "inject": {
